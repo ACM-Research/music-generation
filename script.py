@@ -7,7 +7,10 @@ for file in glob.glob("/midi_files/*.mid"):
     notes_to_parse = None
     parts = instrument.partitionByInstrument(midi)
     print(parts.partName())
-    count+=1
+    for instrument in parts:
+        if instrument.instrumentName() == "piano":
+            count+=1
+
     #if parts.
 
 print(count)
