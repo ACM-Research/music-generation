@@ -1,7 +1,7 @@
 # Generating Music using an LSTM Neural Network
 
 ## Poster
-![Generating-Music_Using-LSTM.pdf](./Generating-Music_Using-LSTM.pdf)
+![Generating-Music_Using-LSTM.pdf](./Generating-Music_Using-LSTM-photo.png)
 
 ## Abstract
 Music is a repetitious art form. Musical elements, such as melodic themes, rhythmic patterns, or harmonic progressions, often appear multiple times throughout a work, meaning memory and contextual understanding is critical to music composition. Prior research in LSTM music generation has primarily focused on classical music. In this study, we investigate generating more modern genres. We selected classical Chopin and Schumann as controls, and compared the performance of LSTM architectures on jazz and anime soundtracks (a type of Japanese pop music). After conducting a survey, we found our LSTM models were able to generate modern music on par with the controls.
