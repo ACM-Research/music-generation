@@ -11,6 +11,7 @@ We collected several midi datasets of Schumann pieces, Chopin mazurkas, anime so
 
 ## Models
 We tested each of the four datasets on four model architectures: 1 Layer LSTM, 2 Layer LSTM with an Attention Layer, 3 Layer LSTM, and a 2 Layer LSTM with a Bidirectional LSTM Layer.
+
 ![Model](./Architecture-diagram.png)
 
 
