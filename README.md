@@ -23,6 +23,6 @@ We collected several midi datasets of Schumann pieces, Chopin mazurkas, anime so
 - [Kailash Subramanian](https://github.com/kaisubr)
 - [Daniel Angel](https://github.com/danielkangel)
 - [Nick Sangha](https://github.com/Nirvair-Sangha)
-- [Keerthi Srilakshmidaran]
+- [Keerthi Srilakshmidaran](https://www.linkedin.com/in/keerthi-srilakshmidaran/)
 - [Viswajith Rajagopalan](https://github.com/ViswajithRajagopalan) - Research Lead
-- [Dr. Doug DeGroot] - Faculty Advisor
+- [Dr. Doug DeGroot](https://cs.utdallas.edu/people/faculty/degroot-doug/) - Faculty Advisor
