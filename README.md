@@ -20,7 +20,7 @@ To judge the musicality of each network's output, we used a survey. 41 people we
 
 ![Graph](./Graph-results.png)
 
-From our survey results and analysis on the accuracy and loss of specific models in different genres, we have determined the best model to be the 2-layer LSTM with an Attention layer for the Anime genre, resulting in a weighted vote score of 108. The model coming in close second which was also the victor in first place votes, was the 1 layer LSTM for the Schumann.
+From our survey results and analysis on the accuracy and loss of specific models in different genres, we have determined the best model to be the 2-layer LSTM with an Attention layer for the Anime genre, resulting in a weighted vote score of 108. The model coming in close second which was also the victor in first place votes, was the 1 layer LSTM for the Schumann genre.
 
 ## Contributors
 
